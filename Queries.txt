@@ -1,0 +1,7 @@
+INSERT INTO `teacher` (`Teacher_ID`, `Teacher_name`, `Subject_id`, `Subject_name`) VALUES ('1001', 'Saleha Saudagar', '2001', 'OOps-Object oriented programming');
+
+INSERT INTO `teacher` (`Teacher_ID`, `Teacher_name`, `Subject_id`, `Subject_name`) VALUES ('1002', 'Ranjeet Singh Sooryanwanshi', '2002', 'Database Management System');
+
+
+
+INSERT INTO `teacher` (`Teacher_ID`, `Teacher_name`, `Subject_id`, `Subject_name`) VALUES ('1004', 'Abha Marathe', '2004', 'Data Science');
